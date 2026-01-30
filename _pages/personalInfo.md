@@ -12,7 +12,7 @@ Email: ast301@vt.edu
 
 Github Username: AlexanderThomasson
 
-Github: https://github.com/AlexanderThomasson
+Github: [AlexanderThomasson Overview](https://github.com/AlexanderThomasson)
 
 
 everything else is private ;)
