@@ -10,5 +10,9 @@ Major: Electrical engineering, Computer engineering
 
 Email: ast301@vt.edu
 
+Github Username: AlexanderThomasson
+
+Github: https://github.com/AlexanderThomasson
+
 
 everything else is private ;)
